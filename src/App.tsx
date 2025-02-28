@@ -34,7 +34,7 @@ export const App: React.FC = () => {
             }}
           >
             <option value="3">3</option>
-            <option value="5" selected>
+            <option value="5" selected={true}>
               5
             </option>
             <option value="10">10</option>
